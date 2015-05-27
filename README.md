@@ -1,7 +1,7 @@
 # project-inspector-gadget
 DSSG project inspector gadget
 
-Team Heart
+Team Heart: Asif, Elissa & Kerstin. Data Science for Social Good (UChicago) Summer Fellowship.
 
 Asif made a change.
 
